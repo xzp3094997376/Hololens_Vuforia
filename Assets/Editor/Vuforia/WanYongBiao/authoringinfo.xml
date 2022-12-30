@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="9.8.5">
+<ModelTarget name="WanYongBiao" targetId="8de607b21f6f40728c6e1203d85059d8" version="11.1" toolVersion="9.8.5" bbox="-0.045000 -0.095000 -0.025000 0.045000 0.095000 0.028012" previewImage="8de607b21f6f40728c6e1203d85059d8_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="WanYongBiaos_assembly" assemblyId="f3fc354dc7ab487d8a3ba60e1da0ad86">
+<Part name="WanYongBiao" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.00980496 0.003863 0.686236" rotation="AD: 0.999999997898609 0.0015878832982971288 -0.04089213985490661 184.444" image="WanYongBiao_viewpoint_0000.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0001" translation="0.00818925 -0.000801949 0.622407" rotation="AD: 0.9944716461459445 -0.10526321869368344 14.263788061090766 180.059" image="WanYongBiao_viewpoint_0001.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0002" translation="0.000880748 0.00386048 0.239109" rotation="AD: 0.9599866261403771 -0.28183051552418875 8.852183781588579 180.393" image="WanYongBiao_viewpoint_0002.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0003" translation="-0.00454962 0.010343 0.381701" rotation="AD: -0.8757023280290167 -0.9281656928568779 0.9498228407920909 238.788" image="WanYongBiao_viewpoint_0003.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

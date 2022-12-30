@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="9.8.5">
+<ModelTarget name="iPhone3" targetId="f42be9b427cf4b14b99a1d855c0401df" version="11.1" toolVersion="9.8.5" bbox="-0.018778 0.000353 -0.002879 0.021257 0.080332 0.002143" previewImage="f42be9b427cf4b14b99a1d855c0401df_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="iPhone3s_assembly" assemblyId="ca6a44791051487aa148636f976f3064">
+<Part name="iPhone3" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.0403378 0.000885975 0.088236" rotation="AD: 0.9763151699881858 0.9729311803800645 -0.32294594689946804 154.212" image="iPhone3_viewpoint_0000.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0001" translation="-0.0403378 0.00136481 0.0889356" rotation="AD: 0.999909596247696 0.9964438263951259 -0.019052327871889957 178.448" image="iPhone3_viewpoint_0001.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0002" translation="-0.0403529 0.00064009 0.0887158" rotation="AD: 0.9915259103054501 1.0017179865057364 -0.18590819215123974 165.25" image="iPhone3_viewpoint_0002.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="iPhone3" motionHint="static" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="iPhone3s_assembly" assemblyId="ca6a44791051487aa148636f976f3064">
+<Part name="iPhone3" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.0403378 0.000885975 0.088236" rotation="AD: 0.9763151699881858 0.9729311803800645 -0.32294594689946804 154.212" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0001" translation="-0.0403378 0.00136481 0.0889356" rotation="AD: 0.999909596247696 0.9964438263951259 -0.019052327871889957 178.448" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0002" translation="-0.0403529 0.00064009 0.0887158" rotation="AD: 0.9915259103054501 1.0017179865057364 -0.18590819215123974 165.25" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
